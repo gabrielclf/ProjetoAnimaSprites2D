@@ -1,2 +1,2 @@
 # Animacao2DUnity
- Teste
+ --Aplicação de animação 2D, sistemas de particulas e transição entre cenas no Unity.
